@@ -9,5 +9,9 @@
 <body>
     <h1>Hello Word</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque, esse!</p>
+<ul>
+<li>belajar membaca</li>
+<li>belajar menulis</li>
+</ul>
 </body>
 </html>
